@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jimmy244
 - 👀 I’m interested in retail in webxr
 - 🌱 I’m currently learning ...a-frame
-- 💞️ I’m looking to collaborate on building webxr platform
+- 💞️ I’m looking to collaborate on building a webxr platform
 - 📫 How to reach me ...instagram: jcd_designer 
 
 <!---
